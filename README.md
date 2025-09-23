@@ -1,4 +1,4 @@
-<h1>Hi, I'm Larry! <br/><a href="https://github.com/larrytraylor">Programmer</a>, <a href="https://www.linkedin.com/in/larrytraylor/">Cybersecurity Professional</a>, <a href="https://www.larrytraylor.com">Content Creator</a></h1>
+<h1>Hi, I'm Larry! <br/><a href="https://www.linkedin.com/in/larrytraylor/">IT Professional</a>
 
 <h2>👨‍💻 Tech Projects:</h2>
 
