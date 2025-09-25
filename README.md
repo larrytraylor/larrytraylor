@@ -3,12 +3,7 @@
 <h2>👨‍💻 Technical Projects:</h2>
 
 - <b>Network Infrastructure & Security</b>
-  - [Enterprise Network Troubleshooting Lab](https://github.com/joshmadakor1/Algorithms-Practice)
-
-- <b>Automation & Administration</b>
-  - PowerShell IT Support Scripts - Automated troubleshooting and system administration
-Active Directory Management - User provisioning and group policy scripts
-
+  - [Network Operations & Security Analysis Lab](https://github.com/larrytraylor/Network-Operations-Security-Analysis-Lab)
 
 
 <h2><b>📚 Certifications & Education</b></h2>
