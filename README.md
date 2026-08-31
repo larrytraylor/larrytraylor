@@ -17,8 +17,6 @@
   - LPI Linux Essentials
 
 - <b>Currently Studying</b> 
-  - B.S. Network Engineering and Security at WGU (Expected: May 2026)
-  - RHCSA
 
 <h2>🤝 Connect with me:</h2>
 
