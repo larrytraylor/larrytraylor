@@ -6,7 +6,7 @@ Currently working toward Microsoft SC-300 and AZ-104.
 
 <h2>Projects</h2>
 
-**[Network Support Ticket Casebook](https://github.com/larrytraylor/network-support-ticket)**
+**[Network Support Ticket Casebook](https://github.com/larrytraylor/network-support-ticket)**<br>
 Six network support tickets worked end to end in a virtualized enterprise environment. Each documents the reported problem, tool selection and rationale, troubleshooting steps, root cause, and verified resolution. Covers DNS, DHCP, routing, firewall rules, packet analysis, and port scanning across Windows Server 2019, Ubuntu, pfSense, and VyOS.
 
 <h2>Certifications</h2>
