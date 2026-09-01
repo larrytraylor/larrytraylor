@@ -15,11 +15,11 @@ CompTIA Security+ &nbsp;·&nbsp; CompTIA Network+ &nbsp;·&nbsp; CompTIA Cloud+ 
 
 <h2>Skills</h2>
 
-**Systems:** &nbsp; Windows 10/11 · Windows Server 2019 · Active Directory · Group Policy · DNS · DHCP · Linux (Ubuntu) · macOS · virtualization
+**Systems:** Windows 10/11 · Windows Server 2019 · Active Directory · Group Policy · DNS · DHCP · Linux (Ubuntu) · macOS · virtualization
 
-**Networking:** &nbsp; TCP/IP · subnetting · VLANs · routing and switching · OSPF · NAT · VPN · firewall configuration · Wireshark · nmap
+**Networking:** TCP/IP · subnetting · VLANs · routing and switching · OSPF · NAT · VPN · firewall configuration · Wireshark · nmap
 
-**Support:** &nbsp; Ticket handling and escalation · incident documentation · root cause analysis · imaging and deployment · hardware diagnostics and repair · ITIL 4 service management
+**Support:** Ticket handling and escalation · incident documentation · root cause analysis · imaging and deployment · hardware diagnostics and repair · ITIL 4 service management
 
 <h2>Connect</h2>
 
