@@ -1,6 +1,6 @@
 <h1>Hi, I'm Larry</h1>
 
-Entry-level cybersecurity candidate with a B.S. in Network Engineering and Security and CompTIA Security+, Network+, A+, and Cloud+. The projects below show the work behind that — packet capture analysis, firewall rule fixes, port scans against an approved baseline, and encrypted, segmented network design — each documented step by step with screenshots.
+I work where networking and security meet: routing, switching, and segmentation on one side, and firewall rules, packet analysis, and incident investigation on the other. B.S. in Network Engineering and Security, with CompTIA Security+, Network+, A+, and Cloud+. Each project below is documented step by step, with screenshots of the actual commands and results.
 
 <h2>Projects</h2>
 
