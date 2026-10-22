@@ -4,7 +4,7 @@ Entry-level cybersecurity candidate with a B.S. in Network Engineering and Secur
 
 <h2>Projects</h2>
 
-**[Tier 1-2 Technical Support Ticket Lab](https://github.com/larrytraylor/technical-support-ticket-lab)**<br>
+**[Network Troubleshooting & Incident Analysis Lab](https://github.com/larrytraylor/network-incident-analysis-lab)**<br>
 Six support tickets worked end to end in a virtualized enterprise environment: a DNS redirection, an unauthorized FTP server found in a packet capture, a routing loop, a DHCP/APIPA failure, an overly broad firewall block rule, and a port scan against a permitted-services baseline. Three of the tickets turned out to point at the same compromised DMZ host. Windows Server 2019, Windows 10, Ubuntu, OPNsense, VyOS, Wireshark, nmap.
 
 **[Summit Sporting Goods - Multi-Site Enterprise Network](https://github.com/larrytraylor/Summit-Sporting-Goods)**<br>
