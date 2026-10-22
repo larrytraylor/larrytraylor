@@ -1,6 +1,6 @@
 <h1>Hi, I'm Larry</h1>
 
-Entry-level cybersecurity candidate based in Arlington, VA, with a B.S. in Network Engineering and Security and CompTIA Security+, Network+, A+, and Cloud+. The projects below show the work behind that — packet capture analysis, firewall rule fixes, port scans against an approved baseline, and encrypted, segmented network design — each documented step by step with screenshots.
+Entry-level cybersecurity candidate with a B.S. in Network Engineering and Security and CompTIA Security+, Network+, A+, and Cloud+. The projects below show the work behind that — packet capture analysis, firewall rule fixes, port scans against an approved baseline, and encrypted, segmented network design — each documented step by step with screenshots.
 
 <h2>Projects</h2>
 
