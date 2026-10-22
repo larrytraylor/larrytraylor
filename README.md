@@ -12,7 +12,7 @@ A two-site network for a retailer, built and validated against ten test cases: O
 
 <h2>Certifications</h2>
 
-CompTIA Security+ &nbsp;·&nbsp; CompTIA Network+ &nbsp;·&nbsp; CompTIA A+ &nbsp;·&nbsp; CompTIA Cloud+ &nbsp;·&nbsp; ITIL 4 Foundation &nbsp;·&nbsp; LPI Linux Essentials &nbsp;·&nbsp; Cisco CCNA (in progress)
+CompTIA Security+ &nbsp;·&nbsp; CompTIA Network+ &nbsp;·&nbsp; CompTIA A+ &nbsp;·&nbsp; CompTIA Cloud+ &nbsp;·&nbsp; ITIL 4 Foundation &nbsp;·&nbsp; Cisco CCNA (in progress)
 
 <h2>Skills</h2>
 
