@@ -1,28 +1,29 @@
 <h1>Hi, I'm Larry</h1>
 
-IT support and infrastructure. B.S. in Network Engineering and Security, six industry certifications, and hands-on work across Windows Server, Active Directory, Linux, and enterprise networking.
-
-Currently working toward Microsoft SC-300 and AZ-104.
+Entry-level cybersecurity candidate based in Arlington, VA, with a B.S. in Network Engineering and Security and CompTIA Security+, Network+, A+, and Cloud+. The projects below show the work behind that — packet capture analysis, firewall rule fixes, port scans against an approved baseline, and encrypted, segmented network design — each documented step by step with screenshots.
 
 <h2>Projects</h2>
 
-**[Network Support Ticket Casebook](https://github.com/larrytraylor/network-support-ticket)**<br>
-Six network support tickets worked end to end in a virtualized enterprise environment. Each documents the reported problem, tool selection and rationale, troubleshooting steps, root cause, and verified resolution. Covers DNS, DHCP, routing, firewall rules, packet analysis, and port scanning across Windows Server 2019, Ubuntu, pfSense, and VyOS.
+**[Tier 1-2 Technical Support Ticket Lab](https://github.com/larrytraylor/technical-support-ticket-lab)**<br>
+Six support tickets worked end to end in a virtualized enterprise environment: a DNS redirection, an unauthorized FTP server found in a packet capture, a routing loop, a DHCP/APIPA failure, an overly broad firewall block rule, and a port scan against a permitted-services baseline. Three of the tickets turned out to point at the same compromised DMZ host. Windows Server 2019, Windows 10, Ubuntu, OPNsense, VyOS, Wireshark, nmap.
+
+**[Summit Sporting Goods - Multi-Site Enterprise Network](https://github.com/larrytraylor/Summit-Sporting-Goods)**<br>
+A two-site network for a retailer, built and validated against ten test cases: OSPF routing, a site-to-site IPsec VPN encrypting all inter-site traffic, VLAN segmentation enforced with ACLs, guest Wi-Fi isolated to internet-only access, port security that shut down a rogue device, and centralized Syslog with NTP. Cisco Packet Tracer.
 
 <h2>Certifications</h2>
 
-CompTIA Security+ &nbsp;·&nbsp; CompTIA Network+ &nbsp;·&nbsp; CompTIA Cloud+ &nbsp;·&nbsp; CompTIA A+ &nbsp;·&nbsp; ITIL 4 Foundation &nbsp;·&nbsp; LPI Linux Essentials
+CompTIA Security+ &nbsp;·&nbsp; CompTIA Network+ &nbsp;·&nbsp; CompTIA A+ &nbsp;·&nbsp; CompTIA Cloud+ &nbsp;·&nbsp; ITIL 4 Foundation &nbsp;·&nbsp; LPI Linux Essentials
 
 <h2>Skills</h2>
 
-**Systems:** Windows 10/11 · Windows Server 2019 · Active Directory · Group Policy · DNS · DHCP · Linux (Ubuntu) · macOS · virtualization
+**Security Tools:** Wireshark packet analysis · nmap · OPNsense firewall rules · incident documentation and root cause analysis
 
-**Networking:** TCP/IP · subnetting · VLANs · routing and switching · OSPF · NAT · VPN · firewall configuration · Wireshark · nmap
+**Systems:** Windows 10 · Windows Server 2019 · Active Directory · Ubuntu Linux · Microsoft Office
 
-**Support:** Ticket handling and escalation · incident documentation · root cause analysis · imaging and deployment · hardware diagnostics and repair · ITIL 4 service management
+**Networking:** TCP/IP · DNS · DHCP · VLANs · OSPF · IPsec VPN
+
+**Automation & Cloud:** Python · Ansible · Terraform · AWS · Git
 
 <h2>Connect</h2>
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://linkedin.com/in/larrytraylor
+[LinkedIn](https://www.linkedin.com/in/larrytraylor) &nbsp;·&nbsp; [contact@larrytraylor.com](mailto:contact@larrytraylor.com)
